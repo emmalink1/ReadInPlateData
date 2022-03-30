@@ -62,5 +62,5 @@ MyMetadata <- read_plates(files = file_list)
 ## You can proceed to rearranging, cleaning, and calculating for the given assay you're working on 
 ## I reccommend saving your read-in dataset before working on it any further 
 
-write.csv(MyMedata, "./ReadInMetadata")
+write.csv(MyMetadata, "/Users/emmalink/Documents/R/SEECRSLabRepos/ReadInPlateData/Data/Metadata/ExampleReadInMetadata")
 
